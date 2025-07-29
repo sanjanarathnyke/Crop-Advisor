@@ -90,6 +90,3 @@ templates/
 ```
 
 ---
-
-## License
-MIT License
